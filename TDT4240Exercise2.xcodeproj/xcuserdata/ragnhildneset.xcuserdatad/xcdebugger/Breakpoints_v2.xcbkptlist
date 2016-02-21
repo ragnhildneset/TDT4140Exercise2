@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "touchesBegan(_:withEvent:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.GameScene.__deallocating_deinit"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/GameScene.swift"
+                  timestampString = "477709986.912915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.GameScene.init (TDT4240Exercise1Task1.GameScene.Type)() -&gt; TDT4240Exercise1Task1.GameScene"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/GameScene.swift"
+                  timestampString = "477709986.913353"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.GameScene.init (TDT4240Exercise1Task1.GameScene.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TDT4240Exercise1Task1.GameScene&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/GameScene.swift"
+                  timestampString = "477709986.913539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Player"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.initialized.getter : Swift.Bool"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.915603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.initialized.setter : Swift.Bool"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.915754"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.init (TDT4240Exercise1Task1.Player.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TDT4240Exercise1Task1.Player&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.916002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.initialized.materializeForSet : Swift.Bool"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.916132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Player"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "update(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477577946.179274"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_49798F0B022FE10276DFA0DCD9853B52_func4"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/GameScene.swift"
+                  timestampString = "477709986.918618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.rotate.unsafeMutableAddressor : Swift.Bool"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/GameScene.swift"
+                  timestampString = "477709986.918802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "touchesBegan(_:withEvent:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "update(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "Player"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.playerBody.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;__ObjC.SKTexture&gt;&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.921824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.playerBody.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;__ObjC.SKTexture&gt;&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.921968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.init (TDT4240Exercise1Task1.Player.Type)(texture : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.SKTexture&gt;, color : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIColor&gt;, size : __C.CGSize) -&gt; TDT4240Exercise1Task1.Player"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.92209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.init (TDT4240Exercise1Task1.Player.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TDT4240Exercise1Task1.Player&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.92221"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.playerBody.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;__ObjC.SKTexture&gt;&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.922413"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477709947.883053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "initPlayer()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477708636.210031"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "Player"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_C56F5E750B21BF96A2F8704C7028E4F0_func0"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.925168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.instance.unsafeMutableAddressor : TDT4240Exercise1Task1.Player"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.925414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TDT4240Exercise1Task1.Player.instance.getter : TDT4240Exercise1Task1.Player"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.925551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TDT4240Exercise1Task1.Player.instance.setter : TDT4240Exercise1Task1.Player"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.925694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TDT4240Exercise1Task1.Player.instance.materializeForSet : TDT4240Exercise1Task1.Player"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.925817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/GameScene.swift"
+            timestampString = "477708823.117905"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "didMoveToView(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477709145.820994"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Player"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.playerAtlas.getter : __ObjC.SKTextureAtlas"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.927694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.init (TDT4240Exercise1Task1.Player.Type)(texture : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.SKTexture&gt;, color : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIColor&gt;, size : __C.CGSize) -&gt; TDT4240Exercise1Task1.Player"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.927825"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDT4240Exercise1Task1.Player.init (TDT4240Exercise1Task1.Player.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TDT4240Exercise1Task1.Player&gt;"
+                  moduleName = "TDT4240Exercise1Task1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragnhildneset/Desktop/progark%202/TDT4240Exercise1Task2/TDT4240Exercise1Task1/Player.swift"
+                  timestampString = "477709986.927925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "125">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDT4240Exercise1Task1/Player.swift"
+            timestampString = "477709906.616871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(texture:color:size:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
